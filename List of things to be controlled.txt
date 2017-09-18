@@ -1,0 +1,6 @@
+Limit switch
+Reflectance sensor
+
+Ultrasonic Sensor
+
+3 servos
